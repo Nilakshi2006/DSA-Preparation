@@ -1,4 +1,4 @@
-🚀 DSA Journey -- Chapter 16: Book Allocation Problem (C++)
+## 🚀 DSA Journey -- Chapter 16: Book Allocation Problem (C++)
 Welcome to Chapter 16 of my Data Structures & Algorithms (DSA)
 journey! 💻📚
 In this chapter, I solved the Book Allocation Problem using an
@@ -13,7 +13,7 @@ This is an important example of Binary Search on Answer, where we
 don't directly search for an element. Instead, we search for the minimum
 possible value that satisfies a given condition.
 ---
-📚 Problem Statement
+## 📚 Problem Statement
 Given an array `arr` where:
 `arr[i]` represents the number of pages in the `i-th` book.
 `n` is the total number of books.
@@ -599,7 +599,7 @@ Invalid Invalid Invalid | Valid Valid Valid Valid
 This is exactly the type of problem where Binary Search on Answer
 can be used.
 ---
-📌 Important Pattern
+## 📌 Important Pattern
 For Binary Search on Answer problems, ask:
 > **Can I check whether a particular answer is possible?**
 If the answer follows a monotonic pattern:
@@ -822,7 +822,7 @@ The answer cannot be less than:
 ```
 because someone must receive the book containing 4 pages.
 ---
-❌ Common Mistakes
+## ❌ Common Mistakes
 ---
 Mistake                      Correct Approach
 ---
